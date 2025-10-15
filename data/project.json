@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "egorobets",
+    "is_private": false,
+    "title": "Escutando sobre povos indígenas em português",
+    "description": "This project consists in interactive lessons that combine linguistic skills with cultural awareness about Indigenous peoples of Latin America. The project is divided in lessons to be used in Portuguese classes looking to expand cultural perspectives while reinforcing language acquisition.",
+    "language": "pt",
+    "slug": "escutandopovosindigenas",
+    "creator": "egorobets",
+    "authors": "Eduardo Gorobets",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-10-15T00:45:34.134Z",
+    "updated_at": "2025-10-15T00:45:34.134Z"
   }
 }
