@@ -1,5 +1,312 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 9,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of saber and contractions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grammar"
+        }
+      ],
+      "uuid": "ba474e01-6076-4944-af71-de4e94edfb46"
+    },
+    {
+      "start_time": 50,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Important forces for Indigenous peoples"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "efd57ed7-92c0-40e3-b9e0-12093086ab72"
+    },
+    {
+      "start_time": 70,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of verb \"estar de pé\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sociocultural Aspects of Language"
+        }
+      ],
+      "uuid": "6b01b123-fed8-4f06-95a5-6d2ff6829fcc"
+    },
+    {
+      "start_time": 81,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Importance of territories"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "2c579a4c-abd3-4b93-a09c-64f89e31069c"
+    },
+    {
+      "start_time": 94,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Places where Indigenous Peoples are in the society"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "12532555-6fe4-43c2-afe5-c4ca55512182"
+    },
+    {
+      "start_time": 150,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Isolated peoples: quantity and reasons to stay isolated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grammar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "d0a97c6c-9912-4646-a8ff-27ba4c5ea1df"
+    },
+    {
+      "start_time": 231,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leaders and new participants of the Indigenous movement"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "8a6cf0d9-b1d2-4678-a8d1-3df98c772225"
+    },
+    {
+      "start_time": 307,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Law Projects between 2027-2022 against Indigenous peoples rights"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "87ee55d0-1df6-4daf-92a6-fda74a140668"
+    },
+    {
+      "start_time": 395,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Consequences of COVID-19 pandemic to Indigenous peoples from Brazil"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "5a9bd152-8710-4f7c-8748-e490bd6b329d"
+    },
+    {
+      "start_time": 556,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reflection about development: uses of para"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grammar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "7d9b3353-bfa8-4fee-ae69-362895c1e900"
+    },
+    {
+      "start_time": 610,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What Indigenous peoples had to do in the recent past to survive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grammar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "a58215af-ef89-460c-ac43-5b207e4f3954"
+    },
+    {
+      "start_time": 646,
+      "end_time": 679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Number about Indigenous peoples in Brazil"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocabulary"
+        }
+      ],
+      "uuid": "ad629bed-2af6-411e-a590-ebdbb8d0374f"
+    },
+    {
+      "start_time": 752,
+      "end_time": 801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uses of \"ter\" and \"ter que\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grammar"
+        }
+      ],
+      "uuid": "951dcf70-6e02-4d7a-9a97-5ac79ad299ef"
+    },
+    {
+      "start_time": 855,
+      "end_time": 883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uses of \"por\" and \"para\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Grammar"
+        }
+      ],
+      "uuid": "7e753fce-8926-4198-b944-5fa00c380391"
+    }
+  ],
   "event_id": "59a8ca85-2d8d-42e5-b9ba-c365a1dadbad",
   "set": "Povos Indigenas no Brasil 1",
   "source_id": "319d6ab4-8ed7-4948-860f-81f4df2ef745"
