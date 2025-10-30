@@ -4,11 +4,12 @@
   "created_by": "egorobets",
   "title": "Povos Indígenas no Brasil 1",
   "slug": "povos-indigenas-no-brasil-1",
-  "updated_at": "2025-10-30T21:57:14.894Z",
+  "updated_at": "2025-10-30T22:10:37.834Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "59a8ca85-2d8d-42e5-b9ba-c365a1dadbad"
-  }
+  },
+  "parent": "0f3e4944-2da6-4bf7-95a8-8afd8da2dcd9"
 }
