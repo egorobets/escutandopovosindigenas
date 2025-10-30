@@ -31,14 +31,13 @@
     }
   ],
   "title": "Home",
-  "parent": "992c0412-529d-4f27-a155-9b2ca31f384d",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "home",
   "created_at": "2025-10-15T00:51:36.173Z",
   "created_by": "egorobets",
-  "updated_at": "2025-10-15T00:51:36.173Z",
+  "updated_at": "2025-10-30T21:59:29.113Z",
   "updated_by": "egorobets"
 }
