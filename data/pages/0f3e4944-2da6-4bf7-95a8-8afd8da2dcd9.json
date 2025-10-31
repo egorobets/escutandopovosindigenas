@@ -52,6 +52,29 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "59a8ca85-2d8d-42e5-b9ba-c365a1dadbad",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Home",
@@ -62,6 +85,6 @@
   "slug": "home",
   "created_at": "2025-10-15T00:51:36.173Z",
   "created_by": "egorobets",
-  "updated_at": "2025-10-30T22:10:23.862Z",
+  "updated_at": "2025-10-31T19:24:51.808Z",
   "updated_by": "egorobets"
 }
