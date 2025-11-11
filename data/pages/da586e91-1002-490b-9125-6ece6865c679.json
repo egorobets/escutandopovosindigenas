@@ -1,0 +1,125 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Welcome to the third activity of "
+        },
+        {
+          "text": "Escutando sobre povos indígenas em português",
+          "bold": true
+        },
+        {
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 3 - Entrevista com Aislan Pankararu",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "This video is an interview with the artist Aislan Pankararu.",
+          "bold": true
+        },
+        {
+          "text": " It is part of a video series about artists whose goal is to recognize artistic expressions that have been neglected and silenced over the centuries. Aislan talks about his journey from his rural Indigenous community, Brejo dos Padres (located in the countryside of Pernambuco State), to major Brazilian cities such as Petrolina, Brasília, and São Paulo. The artist also shares his experience studying medicine and explains how art became a personal way to reconnect with his Pankararu identity.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "54d026d2-d5ca-4da8-baad-177cf2c71981",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nNow let's go to Canvas answer the questions selected by your instructor."
+        }
+      ]
+    }
+  ],
+  "title": "Entrevista com Aislan Pankararu",
+  "parent": "0f3e4944-2da6-4bf7-95a8-8afd8da2dcd9",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "entrevista-com-aislan-pankararu",
+  "created_at": "2025-11-11T20:56:46.692Z",
+  "created_by": "egorobets",
+  "updated_at": "2025-11-11T20:56:46.692Z",
+  "updated_by": "egorobets"
+}
