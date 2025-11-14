@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 974,
-      "end_time": 1093,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What Aislan paint about the Pankararu women?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Women"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Giving birth knowledge"
-        }
-      ],
-      "uuid": "69fdca0a-55af-4b8c-9f06-3e663151bdc5"
-    },
-    {
       "start_time": 1240,
       "end_time": 1398,
       "annotation": [
