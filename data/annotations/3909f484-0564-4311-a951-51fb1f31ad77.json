@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 1452,
-      "end_time": 1505,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Why Aislan affirms that people should be aware of the diversity of Indigenous art?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Indigenous art"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Reflection"
-        }
-      ],
-      "uuid": "ddc80a15-e55b-441f-ae66-1c3c019c164f"
-    },
-    {
       "start_time": 1519,
       "end_time": 1535,
       "annotation": [
