@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 107,
-      "end_time": 235,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "According to Aislan, what is the biggest consequence of the presence of Catholicism in the Pankararu region?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Catholicism"
-        },
-        {
-          "category": "Sociocultural Aspects of Language",
-          "tag": "Tag questions"
-        }
-      ],
-      "uuid": "c57a459d-6273-4ab0-8382-cf62bdb4899a"
-    },
-    {
       "start_time": 240,
       "end_time": 300,
       "annotation": [
