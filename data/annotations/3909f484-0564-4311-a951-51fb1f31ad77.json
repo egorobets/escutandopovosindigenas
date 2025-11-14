@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 1240,
-      "end_time": 1398,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Why is Aislan concerned about his paintings?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Sacred art"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Concerns"
-        }
-      ],
-      "uuid": "1445fb57-2700-4de6-b5f9-a5e15b4da16b"
-    },
-    {
       "start_time": 1452,
       "end_time": 1505,
       "annotation": [
