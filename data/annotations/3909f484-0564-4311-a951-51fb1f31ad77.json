@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 38,
-      "end_time": 89,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Cite one tag question Aislan uses in this excerpt. / Who inspired him to make art? / Write down two verbs in the past followed by its infinitive"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Grammar",
-          "tag": "Past"
-        },
-        {
-          "category": "Sociocultural Aspects of Language",
-          "tag": "Tag questions"
-        }
-      ],
-      "uuid": "d4af5ca0-2f6b-405c-a7f8-63fd317b17da"
-    },
-    {
       "start_time": 89,
       "end_time": 106,
       "annotation": [
