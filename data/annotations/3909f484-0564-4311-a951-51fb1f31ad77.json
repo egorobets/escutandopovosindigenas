@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 305,
-      "end_time": 330,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Identify the verb that Aislan used to explain how many Pankararus live in São Paulo. / What is the main reason for the Pankararu migration? / When the Pankararu migration happened? In the past? In the present? Why?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Grammar",
-          "tag": "Ter"
-        },
-        {
-          "category": "Grammar",
-          "tag": "Past"
-        }
-      ],
-      "uuid": "ec1c87b0-af34-4281-8f49-1baa7bf07945"
-    },
-    {
       "start_time": 375,
       "end_time": 467,
       "annotation": [
