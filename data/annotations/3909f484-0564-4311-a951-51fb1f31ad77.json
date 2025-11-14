@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 510,
-      "end_time": 559,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What does art mean to you? | Do you agree or disagree with Aislan regarding what art is?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Art"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Reflection"
-        }
-      ],
-      "uuid": "cf542820-0a38-4c09-a4bb-255621e831d1"
-    },
-    {
       "start_time": 631,
       "end_time": 690,
       "annotation": [
