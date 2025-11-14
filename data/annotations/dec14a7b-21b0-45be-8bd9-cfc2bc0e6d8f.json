@@ -1,5 +1,335 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 38,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan Pankararu explains who inspired him to make art, and his relationship to his community and a city"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Grammar",
+          "tag": "Past"
+        },
+        {
+          "category": "Sociocultural Aspects of Language",
+          "tag": "Tag questions"
+        }
+      ],
+      "uuid": "cd622fbe-cf0e-4b5e-aa51-3d5d2c83a5f3"
+    },
+    {
+      "start_time": 89,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reasons why Aislan lives in a big city nowadays"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Motivos"
+        },
+        {
+          "category": "Grammar",
+          "tag": "Nouns"
+        }
+      ],
+      "uuid": "9364de3f-20e0-42db-a7a8-8e0771c4f7ad"
+    },
+    {
+      "start_time": 107,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Influences of Catholicism in the region of the Pankararu"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Catholicism"
+        },
+        {
+          "category": "Sociocultural Aspects of Language",
+          "tag": "Tag questions"
+        }
+      ],
+      "uuid": "d89b2718-cd40-456f-87fe-2d7653b3cdba"
+    },
+    {
+      "start_time": 240,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this excerpt, Aislan explains why he decided to study medicine, and to become a doctor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Grammar",
+          "tag": "Use of por and para"
+        }
+      ],
+      "uuid": "9dca2f4f-466b-4620-8653-2f9f4fab237d"
+    },
+    {
+      "start_time": 305,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan explains why there are Pankararus living in São Paulo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Grammar",
+          "tag": "Ter"
+        },
+        {
+          "category": "Grammar",
+          "tag": "Past"
+        }
+      ],
+      "uuid": "55064c5a-ca67-42a7-a7da-bdbb5c783830"
+    },
+    {
+      "start_time": 375,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A corrida do umbu é uma festa tradicional do povo pankararu, onde se encontra o primeiro umbu, que é um fruto típico da caatinga (umbuzeiro). E aí, quando se encontra esse umbu, tem uma celebração, e o fechamento dessa fruta. Então, assim, tem o fechamento, e o fechamento dessa fruta vai dar continuidade à sequência de outras festas, né, que vão seguir em outros finais de semana, celebrando essa corrida do umbu, que é o aparecimento desse fruto. Então, é uma relação de exaltação também da natureza. Nossa pintura corporal, ela é branca, é o barro branco. O barro branco sagrado que tem um momento para ser usado, tem toda uma questão de ser retirado em um local específico. Então, eu gosto de utilizar tanto traços circulares, como o círculozinho branco, que são as bolinhas brancas... E são isso, eu gosto de colocar alguns elementos, né. Por exemplo, eu falei um pouco da corrida do umbu, que vai ter provavelmente daqui um certo tempo, né, próximo do carnaval. E aí eu simbolizo essa corrida do umbu, através do fechamento do umbu, que é colocar a frutinha lá em cima. Então, da minha forma, eu tento ter essa conexão, e retratar essa festa aí.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcriptions",
+          "tag": "Transcrição"
+        },
+        {
+          "category": "Grammar",
+          "tag": "Nouns"
+        },
+        {
+          "category": "Sociocultural Aspects of Language",
+          "tag": "Tag questions"
+        }
+      ],
+      "uuid": "349ed098-d0b9-49f9-ae4d-83f48a24b88e"
+    },
+    {
+      "start_time": 510,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan offers a reflection about art for himself"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Reflection"
+        }
+      ],
+      "uuid": "4049aa44-ea91-46af-8c88-5c3a0d1eb59d"
+    },
+    {
+      "start_time": 631,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan describes his experimentations with art during the COVID-19 pandemic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Art studies"
+        }
+      ],
+      "uuid": "26d0e5c6-23be-4704-ba3b-c7db462067e3"
+    },
+    {
+      "start_time": 840,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan explain his difficulties with college, explaining how art helped him to face it and empower his Indigenous identity"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "College"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Identity"
+        }
+      ],
+      "uuid": "ea7a74e5-f3f3-4d31-934a-2cdc23469e5d"
+    },
+    {
+      "start_time": 974,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thinking about being a doctor and an artist, Aislan talk about the Pankararu women and their knowledge regarding giving birth"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Women"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Giving birth knowledge"
+        }
+      ],
+      "uuid": "9af6f199-7b15-4390-82a2-23072474067c"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan expresses his concern about whether people will understand his works, and to what degree he wants to share sacred entities in his paintings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Sacred art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Concerns"
+        }
+      ],
+      "uuid": "342b0c57-5b1d-40ea-928e-0ebf5df4c1d0"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan offers a reflection about Indigenous art"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Indigenous art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Reflection"
+        }
+      ],
+      "uuid": "647b5f67-20cc-48ea-90e6-336c1ca725ed"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan affirms he cannnot live economically by only making art"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Reflection"
+        }
+      ],
+      "uuid": "b5c79f22-de3c-41f7-a867-f6f6ea366492"
+    }
+  ],
   "event_id": "54d026d2-d5ca-4da8-baad-177cf2c71981",
   "set": "C",
   "source_id": "446f4b33-ca5f-4bca-8773-1bcc57e64fe8"
