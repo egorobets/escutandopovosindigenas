@@ -330,27 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 240,
-      "end_time": 300,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Transcribe one use of para and explain what is the function used."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Grammar",
-          "tag": "Use of por and para"
-        }
-      ],
-      "uuid": "3aaba9b5-003b-416e-9eaf-432fb5978eff"
-    },
-    {
       "start_time": 305,
       "end_time": 330,
       "annotation": [
