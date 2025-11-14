@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 631,
-      "end_time": 690,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What is the main aspects Aislan studied during his experimentations during the pandemic? / What did he realize about the art of his people?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Art"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Art studies"
-        }
-      ],
-      "uuid": "eb05603e-6bd0-4b4b-a0e6-b1927fcdf85b"
-    },
-    {
       "start_time": 840,
       "end_time": 947,
       "annotation": [
