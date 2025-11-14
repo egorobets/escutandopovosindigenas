@@ -330,35 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 840,
-      "end_time": 947,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What do you do to help you with your studies in college? Have you tried or do you want to make art or do other hobbies?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "College"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Art"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Identity"
-        }
-      ],
-      "uuid": "e9f30802-850e-4de8-8d94-18ee4abf1d0a"
-    },
-    {
       "start_time": 974,
       "end_time": 1093,
       "annotation": [
