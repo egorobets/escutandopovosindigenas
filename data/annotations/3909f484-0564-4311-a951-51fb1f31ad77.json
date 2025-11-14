@@ -330,35 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 375,
-      "end_time": 467,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Identify at least three words you do not know, and look for the meaning using a trusted dictionary. / How Aislan's culture appear in his paintings? Can you cite one element that he reproduces in his paintings and in which form?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Transcriptions",
-          "tag": "Transcrição"
-        },
-        {
-          "category": "Grammar",
-          "tag": "Nouns"
-        },
-        {
-          "category": "Sociocultural Aspects of Language",
-          "tag": "Tag questions"
-        }
-      ],
-      "uuid": "85e64305-a782-4134-b714-b6de4684aa86"
-    },
-    {
       "start_time": 510,
       "end_time": 559,
       "annotation": [
