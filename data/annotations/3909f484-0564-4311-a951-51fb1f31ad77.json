@@ -330,31 +330,6 @@
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
     },
     {
-      "start_time": 89,
-      "end_time": 106,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Cite at least one of the reasons why Aislan lives in a big city nowadays."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Motivos"
-        },
-        {
-          "category": "Grammar",
-          "tag": "Nouns"
-        }
-      ],
-      "uuid": "f17e9e1d-9c7f-48a2-8778-f7499c75127a"
-    },
-    {
       "start_time": 107,
       "end_time": 235,
       "annotation": [
