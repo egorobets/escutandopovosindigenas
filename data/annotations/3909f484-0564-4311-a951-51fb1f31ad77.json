@@ -328,31 +328,6 @@
         }
       ],
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
-    },
-    {
-      "start_time": 1519,
-      "end_time": 1535,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Aislan mention one experience in the past, using a verb. Write this verb down, followed by its infinitive. / What does the expression \"não tem como\" mean?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Vocabulary",
-          "tag": "Art"
-        },
-        {
-          "category": "Vocabulary",
-          "tag": "Reflection"
-        }
-      ],
-      "uuid": "f2f1586c-d500-459a-be37-ada4bc7b7911"
     }
   ],
   "set": "Default",
