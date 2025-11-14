@@ -328,6 +328,335 @@
         }
       ],
       "uuid": "209bd0b8-3c4c-4fca-a909-0d0f539c4e88"
+    },
+    {
+      "start_time": 38,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cite one tag question Aislan uses in this excerpt. / Who inspired him to make art? / Write down two verbs in the past followed by its infinitive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Grammar",
+          "tag": "Past"
+        },
+        {
+          "category": "Sociocultural Aspects of Language",
+          "tag": "Tag questions"
+        }
+      ],
+      "uuid": "d1d21e1d-054b-4ae8-9d08-78c534519355"
+    },
+    {
+      "start_time": 89,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cite at least one of the reasons why Aislan lives in a big city nowadays."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Motivos"
+        },
+        {
+          "category": "Grammar",
+          "tag": "Nouns"
+        }
+      ],
+      "uuid": "b3921d59-c9e3-4ddb-beaf-ae7ab885243e"
+    },
+    {
+      "start_time": 107,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Aislan, what is the biggest consequence of the presence of Catholicism in the Pankararu region?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Catholicism"
+        },
+        {
+          "category": "Sociocultural Aspects of Language",
+          "tag": "Tag questions"
+        }
+      ],
+      "uuid": "85e3bc47-3a57-425d-a5f8-b1f45c3e4f6d"
+    },
+    {
+      "start_time": 240,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transcribe one use of para and explain what is the function used."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Grammar",
+          "tag": "Use of por and para"
+        }
+      ],
+      "uuid": "654440e9-bd6a-4842-9993-efc30746c887"
+    },
+    {
+      "start_time": 305,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Identify the verb that Aislan used to explain how many Pankararus live in São Paulo. / What is the main reason for the Pankararu migration? / When the Pankararu migration happened? In the past? In the present? Why?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Grammar",
+          "tag": "Ter"
+        },
+        {
+          "category": "Grammar",
+          "tag": "Past"
+        }
+      ],
+      "uuid": "eae91e25-33f8-42de-a32a-8c408c585bca"
+    },
+    {
+      "start_time": 375,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Identify at least three words you do not know, and look for the meaning using a trusted dictionary. / How Aislan's culture appear in his paintings? Can you cite one element that he reproduces in his paintings and in which form?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcriptions",
+          "tag": "Transcrição"
+        },
+        {
+          "category": "Grammar",
+          "tag": "Nouns"
+        },
+        {
+          "category": "Sociocultural Aspects of Language",
+          "tag": "Tag questions"
+        }
+      ],
+      "uuid": "d573e23e-5de0-4e62-9c1b-ec3c9b08c11f"
+    },
+    {
+      "start_time": 510,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does art mean to you? | Do you agree or disagree with Aislan regarding what art is?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Reflection"
+        }
+      ],
+      "uuid": "286e61a4-1bb3-4600-b231-0ab569352ead"
+    },
+    {
+      "start_time": 631,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is the main aspects Aislan studied during his experimentations during the pandemic? / What did he realize about the art of his people?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Art studies"
+        }
+      ],
+      "uuid": "e13e4fd2-e392-4b15-a427-141eb863a5e9"
+    },
+    {
+      "start_time": 840,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you do to help you with your studies in college? Have you tried or do you want to make art or do other hobbies?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "College"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Identity"
+        }
+      ],
+      "uuid": "8f0ad98a-5a85-457b-b02c-ffddd45a3890"
+    },
+    {
+      "start_time": 974,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What Aislan paint about the Pankararu women?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Women"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Giving birth knowledge"
+        }
+      ],
+      "uuid": "e187dd2e-66a6-4f01-8f56-2b95ca563229"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why is Aislan concerned about his paintings?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Sacred art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Concerns"
+        }
+      ],
+      "uuid": "ebba0487-b558-401a-971c-a6d5cc0acc7f"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why Aislan affirms that people should be aware of the diversity of Indigenous art?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Indigenous art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Reflection"
+        }
+      ],
+      "uuid": "a8ce2f5d-c45f-4765-a67e-dc8510e5113a"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aislan mention one experience in the past, using a verb. Write this verb down, followed by its infinitive. / What does the expression \"não tem como\" mean?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Vocabulary",
+          "tag": "Art"
+        },
+        {
+          "category": "Vocabulary",
+          "tag": "Reflection"
+        }
+      ],
+      "uuid": "79016cad-8a05-4e57-b1e8-8e65a1a44042"
     }
   ],
   "set": "Default",
