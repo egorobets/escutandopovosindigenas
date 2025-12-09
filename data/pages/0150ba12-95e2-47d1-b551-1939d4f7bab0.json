@@ -1,0 +1,120 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A população indígena do Brasil é extremamente diversa e apresenta visibilidade crescente nas estatísticas recentes. Segundo o Censo de 2022 do IBGE, existem 391 etnias indígenas no país — um aumento em relação às 305 registradas em 2010. Entre as 1.694.836 pessoas indígenas identificadas em 2022, algumas das maiores etnias são Tikúna (74.061 pessoas), Kokama (64.327) e Makuxí (53.446). O Censo também registrou 295 línguas indígenas faladas por pessoas com dois anos ou mais, número superior às 274 línguas registradas em 2010. As três línguas indígenas com mais falantes são Tikúna (cerca de 51.978 falantes), Guarani Kaiowá (cerca de 38.658) e Guajajara (cerca de 29.212). Essa pluralidade linguística — centenas de etnias e quase 300 línguas — revela a profunda complexidade cultural dos povos indígenas do Brasil e a resiliência da identidade indígena ao longo das gerações e regiões."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A expressão cultural e o engajamento político indígena seguem evoluindo, combinando tradição e modernidade. Um exemplo marcante é Ailton Krenak, do povo Krenak, que teve papel histórico na defesa dos direitos indígenas durante a Assembleia Constituinte de 1987–1988, contribuindo para a formulação das proteções presentes na Constituição brasileira. Paralelamente, comunidades e artistas indígenas utilizam suas línguas, músicas, literatura e ações políticas para afirmar identidades e direitos — mostrando que as culturas indígenas são vivas, dinâmicas e fundamentais para o tecido social do país. Apesar dos avanços, persistem desafios estruturais importantes: muitos povos indígenas ainda enfrentam disputas territoriais, falta de serviços públicos e condições sociais precárias. Assim, a preservação das línguas, identidades e modos de vida tradicionais permanece não apenas uma questão cultural, mas também de direitos humanos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://amazonwatch.org/wp-content/uploads/2024/09/mt-threat-1536x1152.jpg",
+      "caption": "",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Guajajara protest against the Brazilian Supreme Court Justice in 2024. Source: "
+        },
+        {
+          "text": "Amazon Watch",
+          "link": "https://amazonwatch.org/news/2024/0919-attacks-on-indigenous-rights-in-brazil-by-agribusiness-and-mining-are-fueling-amazon-fires-and-climate-change"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Indigenous population of Brazil is highly diverse and shows growing visibility in recent statistics. According to the 2022 IBGE Census, there are 391 distinct Indigenous ethnicities in Brazil — up from 305 recorded in 2010. Among the 1,694,836 Indigenous people counted in 2022, some of the largest ethnic groups include Tikúna (74,061 people), Kokama (64,327), and Makuxí (53,446). The Census also documented 295 Indigenous languages spoken by people aged two and older, an increase from 274 in 2010. The three Indigenous languages with the highest numbers of speakers are Tikúna (around 51,978 speakers), Guarani Kaiowá (around 38,658), and Guajajara (around 29,212). This linguistic plurality — hundreds of ethnicities and nearly 300 languages — demonstrates the deep cultural complexity of Brazil’s Indigenous populations and the resilience of Indigenous identity across generations and regions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Indigenous cultural expression and political engagement continue to evolve, combining tradition and modernity. A clear example is Ailton Krenak, a member of the Krenak people, who played a historic role in defending Indigenous rights during the 1987–1988 Constituent Assembly that shaped the current Brazilian Constitution. At the same time, Indigenous communities and artists actively use languages, music, literature, and activism to affirm identity and rights — demonstrating that Indigenous languages and cultures are living and dynamic components of Brazil’s social and cultural landscape. Despite these advances, significant structural challenges persist: many Indigenous communities still face land-rights disputes, lack of public services, and social vulnerability. The protection of languages, identities, and traditional ways of life therefore remains both a cultural and a human-rights imperative."
+        }
+      ]
+    }
+  ],
+  "title": "An introduction about Indigenous peoples in Brazil",
+  "parent": "0f3e4944-2da6-4bf7-95a8-8afd8da2dcd9",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "an-introduction-about-indigenous-peoples-in-b",
+  "created_at": "2025-12-09T20:24:52.273Z",
+  "created_by": "egorobets",
+  "updated_at": "2025-12-09T20:24:52.273Z",
+  "updated_by": "egorobets"
+}
