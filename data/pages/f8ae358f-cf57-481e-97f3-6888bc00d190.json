@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://liberalarts.utexas.edu/spanish/gradstudents/ehg427",
+          "children": [
+            {
+              "text": "Eduardo H. Gorobets Martins"
+            }
+          ]
+        },
+        {
+          "text": " is a Ph.D. candidate in the Department of Spanish and Portuguese at The University of Texas at Austin. His primary research interests include the history and culture of Indigenous peoples in colonial Mexico, the Nahuatl language, and digital humanities."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Other projects developed by Eduardo on digital humanities are detailed in a recent "
+        },
+        {
+          "type": "link",
+          "url": "https://www.pterodactilo.com/questions-reviews-and-selections/",
+          "children": [
+            {
+              "text": "article of the Revista Pterodáctilo"
+            }
+          ]
+        },
+        {
+          "text": " (published in English, Spanish, and Portuguese), and include the "
+        },
+        {
+          "type": "link",
+          "url": "https://sites.utcreates.org/frcv/",
+          "children": [
+            {
+              "text": "Vocabulary Fondo Real de Cholula"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "title": "About the author",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "about-the-author",
+  "created_at": "2025-12-09T20:29:08.763Z",
+  "created_by": "egorobets",
+  "updated_at": "2025-12-09T20:29:08.763Z",
+  "updated_by": "egorobets"
+}
