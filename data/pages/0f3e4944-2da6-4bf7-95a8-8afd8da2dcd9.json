@@ -65,7 +65,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Entrevista com Aislan Pankararu"
+          "text": "Entrevista com Aislan Pankararu",
+          "link": "https://egorobets.github.io/escutandopovosindigenas/pages/entrevista-com-aislan-pankararu/"
         }
       ]
     },
@@ -81,7 +82,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Fazedores de Floresta (Florest Makers)"
+          "text": "Fazedores de Floresta (Florest Makers)",
+          "link": "https://egorobets.github.io/escutandopovosindigenas/pages/fazedores-de-floresta-forest-makers/"
         }
       ]
     },
@@ -229,7 +231,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "English version"
+          "text": "English version",
+          "link": "https://egorobets.github.io/escutandopovosindigenas/pages/an-introduction-about-indigenous-peoples-in-b/"
         }
       ]
     },
@@ -261,7 +264,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "About the project | About the author\n"
+          "text": "About the project",
+          "link": "https://egorobets.github.io/escutandopovosindigenas/pages/about-the-project/"
+        },
+        {
+          "text": " | "
+        },
+        {
+          "text": "About the author",
+          "link": "https://egorobets.github.io/escutandopovosindigenas/pages/about-the-author/"
         }
       ]
     }
@@ -274,6 +285,6 @@
   "slug": "home",
   "created_at": "2025-10-15T00:51:36.173Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-09T20:27:35.565Z",
+  "updated_at": "2025-12-09T20:33:00.257Z",
   "updated_by": "egorobets"
 }
