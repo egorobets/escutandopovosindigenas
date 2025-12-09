@@ -112,7 +112,6 @@
     }
   ],
   "title": "Entrevista com Aislan Pankararu",
-  "parent": "0f3e4944-2da6-4bf7-95a8-8afd8da2dcd9",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
@@ -120,6 +119,6 @@
   "slug": "entrevista-com-aislan-pankararu",
   "created_at": "2025-11-11T20:56:46.692Z",
   "created_by": "egorobets",
-  "updated_at": "2025-11-11T20:56:46.692Z",
+  "updated_at": "2025-12-09T20:33:36.295Z",
   "updated_by": "egorobets"
 }
