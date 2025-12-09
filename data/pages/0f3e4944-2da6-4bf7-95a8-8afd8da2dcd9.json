@@ -49,7 +49,219 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Use the menu to explore videos with annotations, according to the instructions of your professor."
+          "text": "Use the menu to explore videos with annotations, according to the instructions of your professor, or click in the links below."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Entrevista com Aislan Pankararu"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fazedores de Floresta (Florest Makers)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 3"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 4"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "An introduction about Indigenous peoples in Brazil",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://amazonwatch.org/wp-content/uploads/2024/09/mt-threat-1536x1152.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Guajajara protest against the Brazilian Supreme Court Justice in 2024. Source: "
+        },
+        {
+          "type": "link",
+          "url": "https://amazonwatch.org/news/2024/0919-attacks-on-indigenous-rights-in-brazil-by-agribusiness-and-mining-are-fueling-amazon-fires-and-climate-change",
+          "children": [
+            {
+              "text": "Amazon Watch"
+            }
+          ]
+        },
+        {
+          "text": ".\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A população indígena do Brasil é extremamente diversa e apresenta visibilidade crescente nas estatísticas recentes. Segundo o Censo de 2022 do IBGE, existem 391 etnias indígenas no país — um aumento em relação às 305 registradas em 2010. Entre as 1.694.836 pessoas indígenas identificadas em 2022, algumas das maiores etnias são Tikúna (74.061 pessoas), Kokama (64.327) e Makuxí (53.446). O Censo também registrou 295 línguas indígenas faladas por pessoas com dois anos ou mais, número superior às 274 línguas registradas em 2010. As três línguas indígenas com mais falantes são Tikúna (cerca de 51.978 falantes), Guarani Kaiowá (cerca de 38.658) e Guajajara (cerca de 29.212). Essa pluralidade linguística — centenas de etnias e quase 300 línguas — revela a profunda complexidade cultural dos povos indígenas do Brasil e a resiliência da identidade indígena ao longo das gerações e regiões."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A expressão cultural e o engajamento político indígena seguem evoluindo, combinando tradição e modernidade. Um exemplo marcante é Ailton Krenak, do povo Krenak, que teve papel histórico na defesa dos direitos indígenas durante a Assembleia Constituinte de 1987–1988, contribuindo para a formulação das proteções presentes na Constituição brasileira. Paralelamente, comunidades e artistas indígenas utilizam suas línguas, músicas, literatura e ações políticas para afirmar identidades e direitos — mostrando que as culturas indígenas são vivas, dinâmicas e fundamentais para o tecido social do país. Apesar dos avanços, persistem desafios estruturais importantes: muitos povos indígenas ainda enfrentam disputas territoriais, falta de serviços públicos e condições sociais precárias. Assim, a preservação das línguas, identidades e modos de vida tradicionais permanece não apenas uma questão cultural, mas também de direitos humanos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "English version"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "*"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "About the project | About the author\n"
         }
       ]
     }
@@ -62,6 +274,6 @@
   "slug": "home",
   "created_at": "2025-10-15T00:51:36.173Z",
   "created_by": "egorobets",
-  "updated_at": "2025-11-11T18:56:06.114Z",
+  "updated_at": "2025-12-09T20:27:35.565Z",
   "updated_by": "egorobets"
 }
