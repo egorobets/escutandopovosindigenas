@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "38c0ae48-842e-402d-a4ca-fd6e360e4053": {
-      "label": "Quem são os povos indígenas brasileiros.",
+      "label": "Quem são os povos indígenas brasileiros",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=KwAxLtqnkmg",
@@ -12,9 +12,10 @@
   "label": "Quem são os povos indígenas brasileiros",
   "created_at": "2025-12-10T19:53:59.758Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-10T19:55:22.872Z",
+  "updated_at": "2025-12-10T19:55:54.137Z",
   "updated_by": "egorobets",
   "av_file_order": [
     "38c0ae48-842e-402d-a4ca-fd6e360e4053"
-  ]
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/"
 }
