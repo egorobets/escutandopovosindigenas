@@ -5,13 +5,20 @@
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=maZLixWP4Yw",
-      "duration": 639
+      "duration": 639,
+      "set_sort": [
+        "a5b8612a-b7f4-44c6-8d7b-f6000170bccd",
+        "7151ee66-4719-41c3-96f8-2f0d6fa68474"
+      ]
     }
   },
   "auto_generate_web_page": true,
   "label": "Entrevista com Márcia Kambeba",
   "created_at": "2025-12-10T17:53:45.497Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-10T17:53:45.497Z",
-  "updated_by": "egorobets"
+  "updated_at": "2025-12-10T17:54:50.387Z",
+  "updated_by": "egorobets",
+  "av_file_order": [
+    "909c7383-7455-4dd0-9d19-c5f40b3d63e3"
+  ]
 }
