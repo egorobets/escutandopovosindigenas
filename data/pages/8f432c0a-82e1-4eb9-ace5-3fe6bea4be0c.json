@@ -4,6 +4,39 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 1 - Quem são os povos indígenas brasileiros?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThe Indigenous peoples of Brazil are the original inhabitants of the land, with a history that stretches back thousands of years. They are incredibly diverse, speaking hundreds of different languages and maintaining unique cultural practices. Over time, colonization, violence, and disease drastically reduced their populations, but Indigenous communities have persisted and continue to play an essential role in Brazilian society today. In the video below, you will learn about who these peoples are, their history, and the ways they continue to shape Brazil’s cultural and social landscape.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +68,7 @@
   "created_by": "egorobets",
   "title": "Quem são os povos indígenas brasileiros?",
   "slug": "quem-sao-os-povos-indigenas-brasileiros",
-  "updated_at": "2025-12-10T20:02:14.959Z",
+  "updated_at": "2025-12-12T21:46:17.601Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
