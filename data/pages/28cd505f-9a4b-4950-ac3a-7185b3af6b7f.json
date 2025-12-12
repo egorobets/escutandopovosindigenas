@@ -9,6 +9,47 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 4 - Entrevista com Márcia Kambeba",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nMárcia Kambeba is an Indigenous writer, poet, activist, and educator originally from the Upper Solimões region of the Amazon. Her work bridges traditions from her Omágua/Kambeba heritage with contemporary urban life, and she reflects deeply on how identity, storytelling, and politics intersect for Indigenous peoples today. In the video below, you will learn about her personal journey, the challenges and strengths of Indigenous women’s voices, and how ancestral knowledge continues to shape resistance and cultural expression in Brazil."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "2b627e90-032e-4675-b25b-e003f25b90c0",
       "includes": [
@@ -35,7 +76,7 @@
   "created_by": "egorobets",
   "title": "Entrevista com Márcia Kambeba",
   "slug": "entrevista-com-marcia-kambeba",
-  "updated_at": "2025-12-10T18:06:35.927Z",
+  "updated_at": "2025-12-12T21:47:36.741Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
