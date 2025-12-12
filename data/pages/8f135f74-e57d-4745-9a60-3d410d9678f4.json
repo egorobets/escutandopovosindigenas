@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project integrate AVAnnotate into introductory Spanish courses to create interactive lessons that combine linguistic skills with cultural awareness. The project has four lessons (videos and comments) based on audiovisual materials from reputable institutions and open-access sources such as YouTube and the Internet Archive. Lessons will focus on themes related to Indigenous peoples of Latin America, thereby expanding cultural perspectives while reinforcing language acquisition."
+          "text": "This project integrate AVAnnotate into introductory Portuguese courses to create interactive lessons that combine linguistic skills with cultural awareness. The project has four lessons (videos and comments) based on audiovisual materials from reputable institutions and open-access sources such as YouTube and the Internet Archive. Lessons will focus on themes related to Indigenous peoples of Latin America, thereby expanding cultural perspectives while reinforcing language acquisition."
         }
       ]
     },
@@ -53,6 +53,6 @@
   "slug": "about-the-project",
   "created_at": "2025-12-09T20:28:21.471Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-09T20:28:21.471Z",
+  "updated_at": "2025-12-12T20:51:34.556Z",
   "updated_by": "egorobets"
 }
