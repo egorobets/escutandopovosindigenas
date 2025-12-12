@@ -12,29 +12,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Welcome to the third activity of "
-        },
-        {
-          "text": "Escutando sobre povos indígenas em português",
-          "bold": true
-        },
-        {
-          "text": "!"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
         }
       ]
@@ -51,7 +28,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video 3 - Entrevista com Aislan Pankararu",
+          "text": "Video 1 - Entrevista com Aislan Pankararu",
           "bold": true
         }
       ]
@@ -60,14 +37,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n"
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "This video is an interview with the artist Aislan Pankararu.",
-          "bold": true
-        },
-        {
-          "text": " It is part of a video series about artists whose goal is to recognize artistic expressions that have been neglected and silenced over the centuries. Aislan talks about his journey from his rural Indigenous community, Brejo dos Padres (located in the countryside of Pernambuco State), to major Brazilian cities such as Petrolina, Brasília, and São Paulo. The artist also shares his experience studying medicine and explains how art became a personal way to reconnect with his Pankararu identity.\n"
+          "text": "This video is an interview with the artist Aislan Pankararu. It is part of a video series about artists whose goal is to recognize artistic expressions that have been neglected and silenced over the centuries. Aislan talks about his journey from his rural Indigenous community, Brejo dos Padres (located in the countryside of Pernambuco State), to major Brazilian cities such as Petrolina, Brasília, and São Paulo. The artist also shares his experience studying medicine and explains how art became a personal way to reconnect with his Pankararu identity.\n"
         }
       ]
     },
@@ -119,6 +97,6 @@
   "slug": "entrevista-com-aislan-pankararu",
   "created_at": "2025-11-11T20:56:46.692Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-09T20:33:36.295Z",
+  "updated_at": "2025-12-12T21:43:23.659Z",
   "updated_by": "egorobets"
 }
